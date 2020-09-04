@@ -1,0 +1,23 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Brooklyn,Bay Ridge,579d3e7c498effa33c0450af,Istanbul Bay,23,8.2,4
+Brooklyn,Gravesend,51a2a2a3498e0d5d337f137b,Wood Spoon,5,7.2,3
+Brooklyn,Sheepshead Bay,4fcbfc92e4b088c92e7e97ad,Opera Cafe Lounge,256,8.2,54
+Brooklyn,Sheepshead Bay,4b1d5405f964a520d70e24e3,Liman Restaurant,98,8.4,38
+Brooklyn,Manhattan Terrace,4a060d32f964a520b1721fe3,Taci's Beyti Restaurant,249,8.7,68
+Brooklyn,Manhattan Beach,4b1d5405f964a520d70e24e3,Liman Restaurant,98,8.4,38
+Brooklyn,Manhattan Beach,4fcbfc92e4b088c92e7e97ad,Opera Cafe Lounge,256,8.2,54
+Brooklyn,Manhattan Beach,4a986cf5f964a520f32b20e3,Istanbul Restaurant Fish & Kebab,35,7.7,15
+Brooklyn,Bath Beach,4aef96d2f964a5206fd921e3,Istanbul Turkish Fast Food & Restaurant,69,7.6,39
+Brooklyn,Dyker Heights,579d3e7c498effa33c0450af,Istanbul Bay,23,8.2,4
+Brooklyn,Gerritsen Beach,4b1d5405f964a520d70e24e3,Liman Restaurant,98,8.4,38
+Brooklyn,Gerritsen Beach,4fcbfc92e4b088c92e7e97ad,Opera Cafe Lounge,256,8.2,54
+Brooklyn,Ocean Parkway,4a060d32f964a520b1721fe3,Taci's Beyti Restaurant,249,8.7,68
+Manhattan,Upper West Side,479309d9f964a520564d1fe3,Bodrum Mediterranean Restaurant,129,8.3,49
+Queens,Breezy Point,4b1d5405f964a520d70e24e3,Liman Restaurant,98,8.4,38
+Queens,Breezy Point,4fcbfc92e4b088c92e7e97ad,Opera Cafe Lounge,256,8.2,54
+Queens,Ravenswood,5cb11a0766f3cd002c371624,Lokanta,20,8.5,8
+Manhattan,Turtle Bay,50fc9a88e4b04cfffaebe2cf,Sip Sak,282,8.8,99
+Queens,Sunnyside Gardens,4a75dd5af964a52076e11fe3,Mangal Kebab,68,8.2,37
+Queens,Roxbury,4b1d5405f964a520d70e24e3,Liman Restaurant,98,8.4,38
+Brooklyn,Homecrest,4a060d32f964a520b1721fe3,Taci's Beyti Restaurant,249,8.7,68
+Brooklyn,Madison,4a060d32f964a520b1721fe3,Taci's Beyti Restaurant,249,8.7,68
